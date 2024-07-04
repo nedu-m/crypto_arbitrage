@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+bin/
+
+lib/
+
+pyvenv.cfg
